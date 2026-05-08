@@ -8,6 +8,7 @@
     }
   },
   "tabBar": {
+    "custom": true,
     "color": "rgba(0,0,0,0)",        
     "selectedColor": "rgba(0,0,0,0)", 
     "backgroundColor": "#ffffff",    
