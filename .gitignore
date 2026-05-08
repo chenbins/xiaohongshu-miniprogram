@@ -1,0 +1,34 @@
+# 依赖目录
+node_modules/
+unpackage/
+dist/
+
+# 微信开发者工具相关文件
+project.private.config.json
+project.config.json.backup
+
+# 缓存与日志
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# 系统与环境文件
+.DS_Store
+Thumbs.db
+.env.local
+.env.*.local
+
+# IDE (VS Code / HBuilderX)
+.vscode/
+.hbuilderx/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 编译生成的本地临时文件
+.temp/
+.cache/
