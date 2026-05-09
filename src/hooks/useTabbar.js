@@ -1,9 +1,9 @@
-import { onShow } from '@dcloudio/uni-app' 
+// import { onShow } from '@dcloudio/uni-app' 
 
-export default function useTabbar() {
-  onShow(() => {
-    uni.hideTabBar({
-      animation: false
-    })
-  })
-}
+// export default function useTabbar() {
+//   onShow(() => {
+//     uni.hideTabBar({
+//       animation: false
+//     })
+//   })
+// }
