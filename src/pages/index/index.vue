@@ -7,7 +7,5 @@
 </template>
 
 <script setup>
-// 隐藏原生底部导航栏
-import useTabbar from '@/hooks/useTabbar'
-useTabbar()
+
 </script>
