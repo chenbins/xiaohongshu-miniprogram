@@ -36,6 +36,12 @@
       }
     },
     {
+      "path": "pages/aptitude/aptitude",
+      "style": {
+        "navigationBarTitleText": "行测刷题"
+      }
+    },
+    {
       "path": "pages/question/question",
       "style": {
         "navigationBarTitleText": "题库"

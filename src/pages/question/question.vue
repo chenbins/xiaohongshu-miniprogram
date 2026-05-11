@@ -1,6 +1,6 @@
 <template>
   <view style="padding: 20px;">
-    题库
+    学习路线
     <!-- 底部导航栏 -->
     <my-tabbar></my-tabbar>
   </view>

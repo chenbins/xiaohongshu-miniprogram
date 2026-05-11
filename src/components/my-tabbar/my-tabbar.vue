@@ -15,8 +15,8 @@
 import { ref, onMounted } from "vue";
 
 const tabList = [
-  { text: "首页", path: "/pages/index/index", icon: "🏠" },
-  { text: "题库", path: "/pages/question/question", icon: "📚" },
+  { text: "练习", path: "/pages/index/index", icon: "🏠" },
+  { text: "学习路线", path: "/pages/question/question", icon: "📚" },
   { text: "我的", path: "/pages/mine/mine", icon: "👤" },
 ];
 
